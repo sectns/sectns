@@ -45,7 +45,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sectns&show_icons=true&locale=tr&layout=compact&theme=radical" alt="sectns" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sectns&theme=radical" alt="sectns" />
-</p>
