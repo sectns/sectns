@@ -39,11 +39,11 @@
 <h2 align="center">📊 İstatistikler / Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sectns&show_icons=true&locale=en&theme=radical" alt="sectns" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sectns&show_icons=true&locale=tr&theme=radical" alt="sectns" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sectns&show_icons=true&locale=en&layout=compact&theme=radical" alt="sectns" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sectns&show_icons=true&locale=tr&layout=compact&theme=radical" alt="sectns" />
 </p>
 
 <p align="center">
