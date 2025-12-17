@@ -39,7 +39,7 @@
 <h2 align="center">📊 İstatistikler / Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sectns&show_icons=true&locale=tr&theme=radical&locale=tr" alt="sectns" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sectns&show_icons=true&locale=tr&theme=radical" alt="sectns" />
 </p>
 
 <p align="center">
