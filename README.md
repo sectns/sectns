@@ -25,11 +25,11 @@
 <h2 align="center">🛠 Teknolojiler ve Araçlar / Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)" alt="react" width="40" height="40"/> </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript" alt="javascript" width="60" height="60"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="react" width="60" height="60"/> </a>  
   <span style="margin-left: 20px;"></span>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=Node.js" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php" alt="php" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=Node.js" alt="nodejs" width="60" height="60"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php" alt="php" width="60" height="60"/> </a>
 </p>
 
 <br/>
