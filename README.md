@@ -25,13 +25,11 @@
 <h2 align="center">🛠 Teknolojiler ve Araçlar / Languages and Tools</h2>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)" alt="react" width="40" height="40"/> </a>  
   <span style="margin-left: 20px;"></span>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/nodeJS-000?style=for-the-badge&logo=Node.js" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank"> <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php" alt="php" width="40" height="40"/> </a>
 </p>
 
 <br/>
@@ -39,9 +37,9 @@
 <h2 align="center">📊 İstatistikler / Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sectns&show_icons=true&locale=tr&theme=radical" alt="sectns" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sectns&theme=radical alt="sectns" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sectns&show_icons=true&locale=tr&layout=compact&theme=radical" alt="sectns" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sectns&theme=radical" alt="sectns" />
 </p>
