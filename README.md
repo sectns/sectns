@@ -37,7 +37,7 @@
 <h2 align="center">📊 İstatistikler / Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sectns&theme=radical alt="sectns" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sectns&theme=radical" alt="sectns" />
 </p>
 
 <p align="center">
